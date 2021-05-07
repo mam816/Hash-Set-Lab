@@ -1,2 +1,2 @@
 # Hash-Set-Lab
-I created and manipulated my own hash set
+I created my own hashing code (the hashOf method in the included code)
